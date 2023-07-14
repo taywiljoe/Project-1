@@ -1,7 +1,7 @@
 # Project 1
 
 ## Project Title
-Heart disease investigation in the US
+Heart Disease Investigation in The United States
 
 ## Team Members
 Taylor Wilson
