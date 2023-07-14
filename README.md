@@ -11,11 +11,11 @@ Does skin cancer increase your likelihood of heart disease?
 Datasets to be used: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease?select=heart_2020_cleaned.csv
 
 Rough breakdown of tasks: 
-Taylor- skin cancer, smoking, alcohol drinking
-Kikelomo- stroke, physical health, mental health
-Lyvia- diff walking, sex, age category
-Abiodun- race, diabetic, physical activity
-Dev- kidney disease, sleep time, asthma
+Taylor- BMI, smoking, alcohol drinking
+Kikelomo- physical health, mental health, general health
+Lyvia- diabetic, asthma, kidney disease, skin cancer, stroke
+Abiodun- race,  physical activity, sex, age category
+Dev- sleep time, diff walking, heart disease
 
 
-BMI, general health, heart disease
+
