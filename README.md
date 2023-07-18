@@ -4,11 +4,11 @@
 Heart Disease Investigation in The United States
 
 ## Team Members
-Taylor Wilson
-Kikelomo Ijagbemi
-Lyvia Nguyen
-Abiodun Oseni
-Dev Paul
+- Taylor Wilson
+- Kikelomo Ijagbemi
+- Lyvia Nguyen
+- Abiodun Oseni
+- Dev Paul
 
 ## Project Description & Outline
 The number one leading cause of death in America is linked to heart disease. Our goal is to analyze a multivariable demographic through describing and comparing data analysis. 
